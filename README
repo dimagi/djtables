@@ -1,6 +1,8 @@
 DjTables: Declarative Tables for Django
 =======================================
 
+**This repository is fully deprecated. It has been merged with [the cStock codebase](https://github.com/dimagi/logistics).**
+
 This is a Django app which renders querysets (and other sequences) into semantic HTML tables. It provides an API for defining tables (similar to django.forms), and template tags for rendering them.
 
 This repo is **not** a fork of `Michael Elsdörfer's django-tables project`_. The two projects provide similar-looking interfaces, but are philosophically quite different. (I'm attempting to provide considerably more drop-in functionality, probably at the cost of tighter coupling.) You should definitely check out Michael's project. It's better documented than mine.
